@@ -4,9 +4,9 @@ This is an evaluation harness for the HumanEval problem solving dataset
 described in the paper "[Evaluating Large Language Models Trained on
 Code](https://arxiv.org/abs/2107.03374)".
 
-Code modified to test local jupyter notebook or on colab.
-local run: [human_eval_codex.ipynb](https://github.com/2796gaurav/human-eval/blob/master/human_eval/human_eval_codex.ipynb)
-google colab run: [colab_human_eval_codex.ipynb](https://github.com/2796gaurav/human-eval/blob/master/colab_human_eval_codex.ipynb)
+## Code modified to test local jupyter notebook or on colab.
+* local run: [human_eval_codex.ipynb](https://github.com/2796gaurav/human-eval/blob/master/human_eval/human_eval_codex.ipynb)
+* google colab run: [colab_human_eval_codex.ipynb](https://github.com/2796gaurav/human-eval/blob/master/colab_human_eval_codex.ipynb)
 
 
 ## Explainer of the paper and code is been presented in below link
