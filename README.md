@@ -4,6 +4,14 @@ This is an evaluation harness for the HumanEval problem solving dataset
 described in the paper "[Evaluating Large Language Models Trained on
 Code](https://arxiv.org/abs/2107.03374)".
 
+Code modified to test local jupyter notebook or on colab.
+local run: [human_eval_codex.ipynb](https://github.com/2796gaurav/human-eval/blob/master/human_eval/human_eval_codex.ipynb)
+google colab run: [colab_human_eval_codex.ipynb](https://github.com/2796gaurav/human-eval/blob/master/colab_human_eval_codex.ipynb)
+
+
+## Explainer of the paper and code is been presented in below link
+
+[![GPT Codex. Openai's model which powers Github Copilot. Paper explained with code.](http://img.youtube.com/vi/8977dybJ7Ro/0.jpg)](https://www.youtube.com/watch?v=8977dybJ7Ro "GPT Codex. Openai's model which powers Github Copilot. Paper explained with code.")
 ## Installation
 
 Make sure to use python 3.7 or later:
@@ -26,6 +34,9 @@ call](https://github.com/openai/human-eval/blob/master/human_eval/execution.py#L
 in `execution.py` is deliberately commented out to ensure users read this
 disclaimer before running code in a potentially unsafe manner. See the comment in
 `execution.py` for more information and instructions.**
+
+**Recommmended to run code in colab for safe experimentation and execution 
+google colab run: [colab_human_eval_codex.ipynb](https://github.com/2796gaurav/human-eval/blob/master/colab_human_eval_codex.ipynb)**
 
 After following the above instructions to enable execution, generate samples
 and save them in the following JSON Lines (jsonl) format, where each sample is
